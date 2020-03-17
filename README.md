@@ -1,1 +1,1 @@
-# Colorization module for Medical Image Analisys
+# Colorization modules for Medical Image Analisys
