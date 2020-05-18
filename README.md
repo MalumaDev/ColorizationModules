@@ -6,6 +6,6 @@
 The images were normalized with these values:
 
 ```python
-"mean": [0.485, 0.456, 0.406]
-"std": [0.229, 0.224, 0.225]
+"mean": [0.5028, 0.5028, 0.5028]
+"std": [0.2902, 0.2902, 0.2902]
 ```
