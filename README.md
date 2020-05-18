@@ -3,5 +3,9 @@
 ![Modules](/images/MODULES.png)
 ![Output](/images/paper_images.jpg)
 ### Images normalization
+The images were normalized with these values:
+
+```python
 "mean": [0.485, 0.456, 0.406]
 "std": [0.229, 0.224, 0.225]
+```
